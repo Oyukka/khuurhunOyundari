@@ -1,0 +1,116 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.container {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+}
+.header {
+  width: 100vw;
+  height: 8vh;
+  font-size: 32px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  background-color: rgb(255, 254, 254);
+  position: sticky;
+  top: 0;
+}
+.body1 {
+  width: 80vw;
+  height: 70vh;
+  display: flex;
+  justify-content: center;
+  align-items: start;
+  font-size: 24px;
+  padding-top: 50px;
+}
+p {
+  font-size: 28px;
+}
+.body2 {
+  margin-top: 50px;
+  width: 38vw;
+  height: 50vh;
+  background-color: rgb(252, 238, 238);
+  margin-left: 58px;
+  padding: 40px;
+}
+.kk {
+  margin-top: 50px;
+  width: 38vw;
+  height: 55vh;
+}
+
+.bur {
+  width: 15vw;
+  height: 3vh;
+  background-color: white;
+  color: rgb(149, 57, 192);
+  border-radius: 20px;
+  margin-top: 25px;
+}
+.new {
+  width: 15vw;
+  height: 3vh;
+  background-color: rgb(149, 57, 192);
+  color: white;
+  border-radius: 20px;
+  margin-top: 25px;
+}
+.dund {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 15px;
+}
+.duus2 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.duussan {
+}
+p {
+  margin-top: 15px;
+}
+.das {
+  gap: 20px;
+}
+.burr {
+  width: 20vw;
+  height: 3vh;
+  color: rgb(17, 133, 241);
+  border-radius: 20px;
+  margin-top: 25px;
+  border-color: rgb(4, 126, 240);
+}
+.neww {
+  width: 20vw;
+  height: 3vh;
+  color: rgb(149, 57, 192);
+  border-radius: 20px;
+  margin-top: 25px;
+  border-color: rgb(197, 6, 214);
+}
+.zurgg {
+  margin-top: 25px;
+  gap: 50px;
+}
+.endd {
+  width: 100vw;
+  height: 25vh;
+  background-color: black;
+}
+.ended {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  color: grey;
+}
